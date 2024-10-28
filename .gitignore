@@ -3,7 +3,8 @@ multirun/
 outputs/
 *.ipynb
 *.sh
-*.png
 taming/
-results*
 *.pt
+*.pyc
+*.npy
+*.txt
